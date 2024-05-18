@@ -35,8 +35,7 @@ run localhost:// on your browser
 ```
 
 ### screenshots
-![alt text](2024-05-17-181259_800x480_scrot.png)
+![alt text](screenshots/2024-05-17-181259_800x480_scrot.png)
 
-captured Images of plant cell
-![alt text](captured_image_2024-05-16_18-19-58.jpg)
-
+captured image of plant cell
+![alt text](screenshots/captured_image_2024-05-16_18-19-58.jpg)
