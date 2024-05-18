@@ -8,7 +8,7 @@ Autoscope Software version 1.1 is ready
 4-> resolution (4056X3040) image is capturing But Lag is there 
 ```
 ```bash 
-Packages we have tp Install:
+Packages we need to Install:
 See requirements.txt for details
 ```
 ```bash 
