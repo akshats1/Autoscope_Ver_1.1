@@ -31,7 +31,28 @@ After installing the packages :run the following command
 ```bash 
 python3 app_update.py
 run localhost:// on your browser
-
+```
+### Folder Structure for Autoscope_ver_1.1
+```
+├── app.py
+├── app_update.py
+├── camera_update_new.py
+├── camera_update_new_resolution.py
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── screenshots
+│   ├── 2024-05-17-181259_800x480_scrot.png
+│   └── captured_image_2024-05-16_18-19-58.jpg
+├── static
+│   ├── scripts.js
+│   ├── style2.css
+│   ├── style.css
+│   └── style_old.css
+└── templates
+    ├── index.html
+    ├── index_old.html
+    └── start.html
 ```
 
 ### screenshots
